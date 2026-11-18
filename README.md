@@ -33,7 +33,26 @@ Engenheiro de Software com forte atuação no ecossistema **Java Enterprise (Jav
 
 <div align="center">
 
-### 1. 🏦 [Fintech Core Ledger & Instant Payment Engine](https://github.com/Mauricio-G-Oliveira/fintech-core-ledger)
+### 1. 📊 [Central Contábil by MakerPixel • SaaS para Escritórios Contábeis](https://github.com/Mauricio-G-Oliveira/makerpixel-central-contabil)
+**Plataforma de Produtividade Contábil: Conciliação Multi-Bancos, Integração Oficial SCI Único & Auditoria Fiscal**
+
+[![Portal Oficial](https://img.shields.io/badge/Website_Oficial-MakerPixel_Techsystem-00A3E0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mauricio-g-oliveira.github.io/makerpixelsite/)
+[![Live Demo](https://img.shields.io/badge/Aplicação_Online-Acessar_Central_Contábil-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mauricio-g-oliveira.github.io/makerpixel-central-contabil/)
+[![GitHub Repo](https://img.shields.io/badge/Repositório-Ver_Código_Fonte-black?style=for-the-badge&logo=github)](https://github.com/Mauricio-G-Oliveira/makerpixel-central-contabil)
+
+</div>
+
+* **Conciliação Bancária Multi-Extratos:** Leitura e conferência automatizada de arquivos OFX, PDFs bancários nativos, CSV e TXT Sicoob de 9+ bancos brasileiros (Sicoob, Sicredi, Caixa, Banco do Brasil, Itaú, Bradesco, Santander, Inter, etc.).
+* **Integração Oficial com SCI Único:** Geração instantânea de lotes contábeis `UNICO_<Unidade>.txt` em formato UTF-8 com BOM (16 colunas separadas por vírgula) e relatório prévio de inconsistências (`PENDENCIAS_UNICO.csv`).
+* **NotaSync & Fiscal SEF/SC:** Captura automatizada de NFC-e direto da SEF/SC sem intermediários pagos e motor de conferência para a Reforma Tributária (IBS/CBS - LC 214/2025).
+* **Segurança e Privacidade Contábil:** Criptografia client-side com PBKDF2 (100k iterações), login individual, permissões por setor (Fiscal, Contábil, DP) e 100% de conformidade com a LGPD.
+* **Tech Stack:** Java 21 LTS, Spring Boot 3, React 19, TypeScript, PostgreSQL 16, Tailwind CSS, Docker.
+
+---
+
+<div align="center">
+
+### 2. 🏦 [Fintech Core Ledger & Instant Payment Engine](https://github.com/Mauricio-G-Oliveira/fintech-core-ledger)
 **Motor de Liquidação Financeira Instantânea, Conciliação e Ledger Imutável por Partidas Dobradas**
 
 [![Live Demo](https://img.shields.io/badge/Aplicação_Online-Acessar_Simulador_Live-10B981?style=for-the-badge&logo=github&logoColor=white)](https://mauricio-g-oliveira.github.io/fintech-core-ledger/)
@@ -53,7 +72,7 @@ Engenheiro de Software com forte atuação no ecossistema **Java Enterprise (Jav
 
 <div align="center">
 
-### 2. 🎛️ [StageFlow Platform • Ecosystem Full-Stack Cloud](https://github.com/Mauricio-G-Oliveira/stageflow)
+### 3. 🎛️ [StageFlow Platform • Ecosystem Full-Stack Cloud](https://github.com/Mauricio-G-Oliveira/stageflow)
 **Plataforma Completa na Nuvem para Gestão de Palco, Músicos, Repertório e Contratos**
 
 [![Live Demo](https://img.shields.io/badge/Aplicação_Online-Acessar_PWA_Cloud-5A0FC8?style=for-the-badge&logo=github&logoColor=white)](https://mauricio-g-oliveira.github.io/stageflow/)
@@ -66,24 +85,6 @@ Engenheiro de Software com forte atuação no ecossistema **Java Enterprise (Jav
 * **Backend Enterprise:** Java 21 LTS, Spring Boot 3.3.4, Spring Security com autenticação JWT sem estado, PostgreSQL e Docker.
 * **Frontend Moderno:** React 19.2, TypeScript 6, Tailwind CSS v4 e PWA instalável com suporte offline e responsividade total.
 * **Destaques:** Gestão de cachês, geração automática de propostas comerciais em PDF, controle de setlist em tempo real e sincronização de eventos.
-
----
-
-<div align="center">
-
-### 3. 💎 [MakerPixel Gestão Financeira, Inteligência Fiscal & PWA](https://github.com/Mauricio-G-Oliveira/makerpixel-gestao)
-**Plataforma Corporativa de Gestão Financeira, Conciliação Multi-Extrato & Compliance Tributário**
-
-[![Live Demo](https://img.shields.io/badge/Aplicação_Online-Acessar_Demonstração-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://mauricio-g-oliveira.github.io/makerpixel-gestao/)
-[![GitHub Repo](https://img.shields.io/badge/Repositório-Ver_Código_Fonte-black?style=for-the-badge&logo=github)](https://github.com/Mauricio-G-Oliveira/makerpixel-gestao)
-[![Tests Passing](https://img.shields.io/badge/Tests-226_Passing_(100%25)-10B981?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Mauricio-G-Oliveira/makerpixel-gestao)
-
-</div>
-
-* **Conciliação Bancária Multi-Extrato:** Parser inteligente de arquivos OFX e extratos em lote com conciliação automática de lançamentos.
-* **Inteligência Fiscal & Tributária:** Conformidade com ICMS e adaptação para a **Reforma Tributária (LC 214/2025)**.
-* **Integração Oficial com ERP Contábil:** Exportação compatível com o sistema contábil **SCI Único**.
-* **Segurança e Privacidade:** Criptografia client-side com PBKDF2 (100k iterações) e total aderência à LGPD.
 
 ---
 
